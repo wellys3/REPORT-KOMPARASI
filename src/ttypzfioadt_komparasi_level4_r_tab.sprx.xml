@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_R_TAB</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZFIOADT_KOMPARASI_LEVEL4_REQ</OBJ_NAME_M>
+     <HASH_ID>DE94E8A963619D84CC401AB3C7D66F41CC4C66B8</HASH_ID>
+     <ID>TableOf&lt;type&gt; DATA &lt;element&gt; DATA &lt;type&gt; assJsonData &lt;element&gt; assJsonData &lt;type&gt; DT_Komparasi_Level4_Req http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>DATA</IFR_NAME>
+     <IFR_NSPCE>http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</IFR_NSPCE>
+     <IFR_GNSPCE>http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZFIOA</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_R_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>ZFIOADT_KOMPARASI_LEVEL4_R_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>ZFIOADT_KOMPARASI_LEVEL4_R_TAB</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZFIOADT_KOMPARASI_LEVEL4_REQ_D</OBJ_NAME_R>
+     <ID>TableOf&lt;type&gt; DATA &lt;element&gt; DATA &lt;type&gt; assJsonData &lt;element&gt; assJsonData &lt;type&gt; DT_Komparasi_Level4_Req http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>DATA</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>ZFIOADT_KOMPARASI_LEVEL4_R_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

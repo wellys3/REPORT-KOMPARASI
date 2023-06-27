@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME_M>
+     <HASH_ID>58C381D706A511E2197AA215F45AD74FBC05593B</HASH_ID>
+     <ID>&lt;message&gt; MT_Receive_Req_Komparasi_Req http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>MT_Receive_Req_Komparasi_Req</IFR_NAME>
+     <IFR_NSPCE>http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</IFR_NSPCE>
+     <IFR_GNSPCE>http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</IFR_GNSPCE>
+     <GEN_VERS>0006</GEN_VERS>
+     <PREFIX>ZFIIA</PREFIX>
+     <CATEGORY>ifmmessage</CATEGORY>
+     <X-ML_NSPCE>http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</X-ML_NSPCE>
+     <X-ML_NAME>MT_Receive_Req_Komparasi_Req</X-ML_NAME>
+     <VERSION_ID>1dd11da94deb11ed812d000000709f0e</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>MT_RECEIVE_REQ_KOMPARASI_REQ</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>MT_RECEIVE_REQ_KOMPARASI_REQ</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZFIIADT_RECEIVE_REQ_KOMPARASI3</OBJ_NAME_R>
+     <ID>&lt;part&gt; MT_Receive_Req_Komparasi_Req &lt;message&gt; MT_Receive_Req_Komparasi_Req http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</ID>
+     <IFR_TYPE>part</IFR_TYPE>
+     <IFR_NAME>MT_Receive_Req_Komparasi_Req</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>MT_RECEIVE_REQ_KOMPARASI_REQ</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</OBJ_NAME2>
+     <ID>&lt;message&gt; MT_Receive_Req_Komparasi_Req http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI http://adira.co.id/ZFIFM_IB_RECEIVE_REQ_KOMPARASI</ID>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>MT_Receive_Req_Komparasi_Req</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZFIIAMT_RECEIVE_REQ_KOMPARASI1</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmmessage</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

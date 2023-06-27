@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME_M>
+     <HASH_ID>65E2C5107E213D3BC4BDC52FBDE8B49CDC86BC80</HASH_ID>
+     <ID>&lt;type&gt; DT_Komparasi_Level4_IB_Resp http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_Komparasi_Level4_IB_Resp</IFR_NAME>
+     <IFR_NSPCE>http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</IFR_NSPCE>
+     <IFR_GNSPCE>http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZFIOA</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <X-ML_NSPCE>http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</X-ML_NSPCE>
+     <X-ML_NAME>DT_Komparasi_Level4_IB_Resp</X-ML_NAME>
+     <VERSION_ID>55d1699bd39711ed9e9f000000709f0e</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>DATA</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>DATA</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZFIOADT_KOMPARASI_LEVEL4_IB_R2</OBJ_NAME_R>
+     <ID>&lt;element&gt; data &lt;type&gt; DT_Komparasi_Level4_IB_Resp http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>data</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>DATA</R3_NAME>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>HEADER</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>HEADER</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZFIOADT_KOMPARASI_LEVEL4_IB_RE</OBJ_NAME_R>
+     <ID>&lt;element&gt; header &lt;type&gt; DT_Komparasi_Level4_IB_Resp http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>header</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>HEADER</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_Komparasi_Level4_IB_Resp http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4 http://adira.co.id/ZFIFM_OB_SEND_KOMPARASI_LV4</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_Komparasi_Level4_IB_Resp</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZFIOADT_KOMPARASI_LEVEL4_IB_R4</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
